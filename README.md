@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akhlas Hussain</h1>
-<h3 align="center">A MERN Stack Developer and a Web 3.0 Enthusiast</h3>
+<h3 align="center">A Full Stack Developer and a Web 3.0 Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-faze&label=Profile%20views&color=0e75b6&style=flat" alt="dark-faze" /> </p>
 
