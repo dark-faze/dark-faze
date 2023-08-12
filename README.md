@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Akhlas Hussain</h1>
-<h3 align="center">A Full Stack Developer and a Web 3.0 Enthusiast</h3>
+<h3 align="center">A Full Stack Developer and like to build tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-faze&label=Profile%20views&color=0e75b6&style=flat" alt="dark-faze" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Semi Auto Trader**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **AWS and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dark-faze](https://github.com/dark-faze)
 
 - 🚀 Checkout my personal Website [https://akhlas-portfolio.netlify.app](https://akhlas-portfolio.netlify.app)
 
-- 💬 Ask me about **React , BlockChain , MERN Stack**
+- 💬 Ask me about **React , AI , MERN/MEAN Stack**
 
 - 📫 How to reach me **akhlashussain3@gmail.com**
 
