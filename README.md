@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dark-faze](https://github.com/dark-faze)
 
-- 🚀 Checkout my personal Website [https://akhlas-portfolio.netlify.app](https://akhlas-portfolio.netlify.app)
+- 🚀 Checkout my personal Website [https://akhlas.me](https://akhlas.me)
 
 - 💬 Ask me about **NEXTJS , AI , MERN/MEAN or T3 Stack**
 
